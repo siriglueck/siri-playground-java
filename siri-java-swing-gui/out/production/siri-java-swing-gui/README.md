@@ -1,0 +1,5 @@
+﻿# siri-java-swing-gui
+
+learning by doing, enjoy the journey
+
+https://www.youtube.com/watch?v=Kmgo00avvEw
